@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+header{
+    background-color: rgb(146, 10, 10);
+    color: white;
+    text-align: center;
+}
+ h4{
+    color:black;
+ }
+
+main{
+    text-align: center;
+    color: red;
+}
+footer{
+    padding: 2em;
+    color: white;
+    background-color: black;
+    text-align: center;
+}

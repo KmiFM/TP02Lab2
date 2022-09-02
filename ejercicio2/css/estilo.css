@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    background-color: purple;
+    color:white;
+    text-align: center;
+}
+main{
+    background-color: rgb(206, 206, 103);
+}
+h3{
+    background-color: rgb(133, 133, 230);
+    color: white;
+}
